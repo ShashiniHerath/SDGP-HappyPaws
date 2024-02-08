@@ -9,4 +9,3 @@ export const About = () => {
     </div>
     );
 };
-//This is a comment
