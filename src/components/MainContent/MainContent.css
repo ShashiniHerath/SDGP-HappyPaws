@@ -1,0 +1,47 @@
+.main_content{
+    width: 1300px; /* Set the width of the box */
+    height: 650px; /* Set the height of the box */
+    background-color: #ffffff91;  /* Set the background color */
+    border-radius: 100px; /* Set the border-radius for rounded corners */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto; /* Center the box horizontally */
+    margin-top: 15px; /* Adjust the top margin as needed */
+}
+.dogImage{
+    width: 550px;
+    align-items: right;
+    position: absolute; /* Use absolute positioning */
+    right: 130px; /* Align to the right */
+    top: 250px;
+}
+.dog_Image1{
+    height: 15%;
+    width: 8%;
+    border-radius: 50%;
+    margin-bottom: 280px;
+    margin-left: 600px;
+    border: 2px solid;
+    border-color: rgb(195, 133, 133);
+}
+.dog_Image2{
+    height: 15%;
+    width: 8%;
+    border-radius: 50%;
+    margin-bottom: 500px;
+    margin-left: 100px;
+    border: 2px solid;
+    border-color: rgb(195, 133, 133);
+
+}
+.dog_Image3{
+    height: 15%;
+    width: 8%;
+    border-radius: 50%;
+    margin-bottom: 480px;
+    margin-left: 100px;
+    border: 2px solid;
+    border-color: rgb(195, 133, 133);
+
+}
